@@ -1,0 +1,30 @@
+Ich werde heute Abend ins Kino gehen.
+
+Ich, PRON, sb, PPER, 
+pronoun, subject, non-reflexive personal pronoun, 
+
+werde, AUX, ROOT, VAFIN, 
+auxiliary, root, finite verb, auxiliary, 
+
+heute, ADV, mo, ADV, 
+adverb, modifier, adverb, 
+
+Abend, NOUN, oa, NN, 
+noun, accusative object, noun, singular or mass, 
+
+ins, ADP, mo, APPRART, 
+adposition, modifier, preposition with article, 
+
+Kino, NOUN, nk, NN, 
+noun, noun kernel element, noun, singular or mass, 
+
+gehen, VERB, oc, VVINF, 
+verb, clausal object, infinitive, full, 
+
+., PUNCT, punct, $., 
+punctuation, punctuation, sentence-final punctuation mark, 
+
+
+, SPACE, dep, _SP, 
+space, unclassified dependent, whitespace, 
+

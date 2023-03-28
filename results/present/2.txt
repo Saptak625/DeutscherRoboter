@@ -1,0 +1,21 @@
+Er liest ein Buch.
+
+Er, PRON, sb, PPER, 
+pronoun, subject, non-reflexive personal pronoun, 
+
+liest, VERB, ROOT, VVFIN, 
+verb, root, finite verb, full, 
+
+ein, DET, nk, ART, 
+determiner, noun kernel element, definite or indefinite article, 
+
+Buch, NOUN, oa, NN, 
+noun, accusative object, noun, singular or mass, 
+
+., PUNCT, punct, $., 
+punctuation, punctuation, sentence-final punctuation mark, 
+
+
+, SPACE, dep, _SP, 
+space, unclassified dependent, whitespace, 
+

@@ -1,0 +1,27 @@
+Ihr spielte gestern Fußball im Park.
+
+Ihr, PRON, sb, PPER, 
+pronoun, subject, non-reflexive personal pronoun, 
+
+spielte, VERB, ROOT, VVFIN, 
+verb, root, finite verb, full, 
+
+gestern, ADV, mo, ADV, 
+adverb, modifier, adverb, 
+
+Fußball, NOUN, sb, NN, 
+noun, subject, noun, singular or mass, 
+
+im, ADP, mo, APPRART, 
+adposition, modifier, preposition with article, 
+
+Park, NOUN, nk, NN, 
+noun, noun kernel element, noun, singular or mass, 
+
+., PUNCT, punct, $., 
+punctuation, punctuation, sentence-final punctuation mark, 
+
+
+, SPACE, dep, _SP, 
+space, unclassified dependent, whitespace, 
+

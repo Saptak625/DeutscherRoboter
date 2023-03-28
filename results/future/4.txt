@@ -1,0 +1,21 @@
+Ihr werdet Fußball spielen.
+
+Ihr, PRON, sb, PPER, 
+pronoun, subject, non-reflexive personal pronoun, 
+
+werdet, VERB, ROOT, VVFIN, 
+verb, root, finite verb, full, 
+
+Fußball, NOUN, oa, NN, 
+noun, accusative object, noun, singular or mass, 
+
+spielen, VERB, oc, VVINF, 
+verb, clausal object, infinitive, full, 
+
+., PUNCT, punct, $., 
+punctuation, punctuation, sentence-final punctuation mark, 
+
+
+, SPACE, dep, _SP, 
+space, unclassified dependent, whitespace, 
+

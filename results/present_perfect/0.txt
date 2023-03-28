@@ -1,0 +1,36 @@
+Ich habe gestern Abend im Kino einen Film gesehen.
+
+Ich, PRON, sb, PPER, 
+pronoun, subject, non-reflexive personal pronoun, 
+
+habe, AUX, ROOT, VAFIN, 
+auxiliary, root, finite verb, auxiliary, 
+
+gestern, ADV, mo, ADV, 
+adverb, modifier, adverb, 
+
+Abend, NOUN, oa, NN, 
+noun, accusative object, noun, singular or mass, 
+
+im, ADP, mo, APPRART, 
+adposition, modifier, preposition with article, 
+
+Kino, NOUN, nk, NN, 
+noun, noun kernel element, noun, singular or mass, 
+
+einen, DET, nk, ART, 
+determiner, noun kernel element, definite or indefinite article, 
+
+Film, NOUN, oa, NN, 
+noun, accusative object, noun, singular or mass, 
+
+gesehen, VERB, oc, VVPP, 
+verb, clausal object, perfect participle, full, 
+
+., PUNCT, punct, $., 
+punctuation, punctuation, sentence-final punctuation mark, 
+
+
+, SPACE, dep, _SP, 
+space, unclassified dependent, whitespace, 
+

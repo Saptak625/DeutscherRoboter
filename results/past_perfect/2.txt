@@ -1,0 +1,24 @@
+Er hatte ein Buch gelesen.
+
+Er, PRON, sb, PPER, 
+pronoun, subject, non-reflexive personal pronoun, 
+
+hatte, AUX, ROOT, VAFIN, 
+auxiliary, root, finite verb, auxiliary, 
+
+ein, DET, nk, ART, 
+determiner, noun kernel element, definite or indefinite article, 
+
+Buch, NOUN, oa, NN, 
+noun, accusative object, noun, singular or mass, 
+
+gelesen, VERB, oc, VVPP, 
+verb, clausal object, perfect participle, full, 
+
+., PUNCT, punct, $., 
+punctuation, punctuation, sentence-final punctuation mark, 
+
+
+, SPACE, dep, _SP, 
+space, unclassified dependent, whitespace, 
+

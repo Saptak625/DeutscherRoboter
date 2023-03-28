@@ -1,0 +1,27 @@
+Er hat gestern ein Buch gelesen.
+
+Er, PRON, sb, PPER, 
+pronoun, subject, non-reflexive personal pronoun, 
+
+hat, AUX, ROOT, VAFIN, 
+auxiliary, root, finite verb, auxiliary, 
+
+gestern, ADV, mo, ADV, 
+adverb, modifier, adverb, 
+
+ein, DET, nk, ART, 
+determiner, noun kernel element, definite or indefinite article, 
+
+Buch, NOUN, oa, NN, 
+noun, accusative object, noun, singular or mass, 
+
+gelesen, VERB, oc, VVPP, 
+verb, clausal object, perfect participle, full, 
+
+., PUNCT, punct, $., 
+punctuation, punctuation, sentence-final punctuation mark, 
+
+
+, SPACE, dep, _SP, 
+space, unclassified dependent, whitespace, 
+

@@ -1,0 +1,22 @@
+Sie sangen gestern Abend im Chor.
+Sie, PRON, sb, PPER, 
+pronoun, subject, non-reflexive personal pronoun, 
+
+sangen, VERB, ROOT, VVFIN, 
+verb, root, finite verb, full, 
+
+gestern, ADV, mo, ADV, 
+adverb, modifier, adverb, 
+
+Abend, NOUN, oa, NN, 
+noun, accusative object, noun, singular or mass, 
+
+im, ADP, mo, APPRART, 
+adposition, modifier, preposition with article, 
+
+Chor, NOUN, nk, NN, 
+noun, noun kernel element, noun, singular or mass, 
+
+., PUNCT, punct, $., 
+punctuation, punctuation, sentence-final punctuation mark, 
+

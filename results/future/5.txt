@@ -1,0 +1,19 @@
+Sie werden im Chor singen.
+Sie, PRON, sb, PPER, 
+pronoun, subject, non-reflexive personal pronoun, 
+
+werden, AUX, ROOT, VAFIN, 
+auxiliary, root, finite verb, auxiliary, 
+
+im, ADP, mo, APPRART, 
+adposition, modifier, preposition with article, 
+
+Chor, NOUN, nk, NN, 
+noun, noun kernel element, noun, singular or mass, 
+
+singen, VERB, oc, VVINF, 
+verb, clausal object, infinitive, full, 
+
+., PUNCT, punct, $., 
+punctuation, punctuation, sentence-final punctuation mark, 
+

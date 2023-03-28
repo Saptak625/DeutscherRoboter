@@ -1,0 +1,31 @@
+Sie hatte gut gespielt, bis sie verletzt wurde.
+Sie, PRON, sb, PPER, 
+pronoun, subject, non-reflexive personal pronoun, 
+
+hatte, AUX, ROOT, VAFIN, 
+auxiliary, root, finite verb, auxiliary, 
+
+gut, ADV, mo, ADJD, 
+adverb, modifier, adjective, adverbial or predicative, 
+
+gespielt, VERB, oc, VVPP, 
+verb, clausal object, perfect participle, full, 
+
+,, PUNCT, punct, $,, 
+punctuation, punctuation, comma, 
+
+bis, SCONJ, cp, KOUS, 
+subordinating conjunction, complementizer, subordinate conjunction with sentence, 
+
+sie, PRON, sb, PPER, 
+pronoun, subject, non-reflexive personal pronoun, 
+
+verletzt, VERB, oc, VVPP, 
+verb, clausal object, perfect participle, full, 
+
+wurde, AUX, mo, VAFIN, 
+auxiliary, modifier, finite verb, auxiliary, 
+
+., PUNCT, punct, $., 
+punctuation, punctuation, sentence-final punctuation mark, 
+

@@ -1,0 +1,21 @@
+Du hattest Tee getrunken.
+
+Du, PRON, sb, PPER, 
+pronoun, subject, non-reflexive personal pronoun, 
+
+hattest, VERB, ROOT, VVFIN, 
+verb, root, finite verb, full, 
+
+Tee, NOUN, oa, NN, 
+noun, accusative object, noun, singular or mass, 
+
+getrunken, VERB, mo, VVPP, 
+verb, modifier, perfect participle, full, 
+
+., PUNCT, punct, $., 
+punctuation, punctuation, sentence-final punctuation mark, 
+
+
+, SPACE, dep, _SP, 
+space, unclassified dependent, whitespace, 
+

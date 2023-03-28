@@ -1,0 +1,24 @@
+Er wird ein Buch lesen.
+
+Er, PRON, sb, PPER, 
+pronoun, subject, non-reflexive personal pronoun, 
+
+wird, AUX, ROOT, VAFIN, 
+auxiliary, root, finite verb, auxiliary, 
+
+ein, DET, nk, ART, 
+determiner, noun kernel element, definite or indefinite article, 
+
+Buch, NOUN, oa, NN, 
+noun, accusative object, noun, singular or mass, 
+
+lesen, VERB, oc, VVINF, 
+verb, clausal object, infinitive, full, 
+
+., PUNCT, punct, $., 
+punctuation, punctuation, sentence-final punctuation mark, 
+
+
+, SPACE, dep, _SP, 
+space, unclassified dependent, whitespace, 
+

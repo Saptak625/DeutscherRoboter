@@ -1,0 +1,19 @@
+Sie singen laut im Chor.
+Sie, PRON, sb, PPER, 
+pronoun, subject, non-reflexive personal pronoun, 
+
+singen, VERB, ROOT, VVFIN, 
+verb, root, finite verb, full, 
+
+laut, ADV, mo, ADJD, 
+adverb, modifier, adjective, adverbial or predicative, 
+
+im, ADP, cvc, APPRART, 
+adposition, collocational verb construction, preposition with article, 
+
+Chor, NOUN, nk, NN, 
+noun, noun kernel element, noun, singular or mass, 
+
+., PUNCT, punct, $., 
+punctuation, punctuation, sentence-final punctuation mark, 
+

@@ -1,0 +1,24 @@
+Du hast gestern Tee getrunken.
+
+Du, PRON, sb, PPER, 
+pronoun, subject, non-reflexive personal pronoun, 
+
+hast, AUX, ROOT, VAFIN, 
+auxiliary, root, finite verb, auxiliary, 
+
+gestern, ADV, mo, ADV, 
+adverb, modifier, adverb, 
+
+Tee, NOUN, oa, NN, 
+noun, accusative object, noun, singular or mass, 
+
+getrunken, VERB, oc, VVPP, 
+verb, clausal object, perfect participle, full, 
+
+., PUNCT, punct, $., 
+punctuation, punctuation, sentence-final punctuation mark, 
+
+
+, SPACE, dep, _SP, 
+space, unclassified dependent, whitespace, 
+

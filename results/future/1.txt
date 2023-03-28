@@ -1,0 +1,21 @@
+Du wirst Tee trinken.
+
+Du, PRON, sb, PPER, 
+pronoun, subject, non-reflexive personal pronoun, 
+
+wirst, AUX, ROOT, VAFIN, 
+auxiliary, root, finite verb, auxiliary, 
+
+Tee, NOUN, oa, NN, 
+noun, accusative object, noun, singular or mass, 
+
+trinken, VERB, oc, VVINF, 
+verb, clausal object, infinitive, full, 
+
+., PUNCT, punct, $., 
+punctuation, punctuation, sentence-final punctuation mark, 
+
+
+, SPACE, dep, _SP, 
+space, unclassified dependent, whitespace, 
+

@@ -1,0 +1,24 @@
+Wir essen jeden Morgen Müsli.
+
+Wir, PRON, sb, PPER, 
+pronoun, subject, non-reflexive personal pronoun, 
+
+essen, VERB, ROOT, VVFIN, 
+verb, root, finite verb, full, 
+
+jeden, DET, nk, PIAT, 
+determiner, noun kernel element, attributive indefinite pronoun without determiner, 
+
+Morgen, NOUN, oa, NN, 
+noun, accusative object, noun, singular or mass, 
+
+Müsli, PROPN, oa, NE, 
+proper noun, accusative object, proper noun, 
+
+., PUNCT, punct, $., 
+punctuation, punctuation, sentence-final punctuation mark, 
+
+
+, SPACE, dep, _SP, 
+space, unclassified dependent, whitespace, 
+

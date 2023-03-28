@@ -1,0 +1,24 @@
+Ihr spielt Fußball im Park.
+
+Ihr, PRON, sb, PPER, 
+pronoun, subject, non-reflexive personal pronoun, 
+
+spielt, VERB, ROOT, VVFIN, 
+verb, root, finite verb, full, 
+
+Fußball, NOUN, oa, NN, 
+noun, accusative object, noun, singular or mass, 
+
+im, ADP, mo, APPRART, 
+adposition, modifier, preposition with article, 
+
+Park, NOUN, nk, NN, 
+noun, noun kernel element, noun, singular or mass, 
+
+., PUNCT, punct, $., 
+punctuation, punctuation, sentence-final punctuation mark, 
+
+
+, SPACE, dep, _SP, 
+space, unclassified dependent, whitespace, 
+

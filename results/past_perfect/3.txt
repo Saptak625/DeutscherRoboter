@@ -1,0 +1,21 @@
+Wir hatten Pizza gegessen.
+
+Wir, PRON, sb, PPER, 
+pronoun, subject, non-reflexive personal pronoun, 
+
+hatten, AUX, ROOT, VAFIN, 
+auxiliary, root, finite verb, auxiliary, 
+
+Pizza, NOUN, oa, NN, 
+noun, accusative object, noun, singular or mass, 
+
+gegessen, VERB, oc, VVPP, 
+verb, clausal object, perfect participle, full, 
+
+., PUNCT, punct, $., 
+punctuation, punctuation, sentence-final punctuation mark, 
+
+
+, SPACE, dep, _SP, 
+space, unclassified dependent, whitespace, 
+

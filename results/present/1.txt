@@ -1,0 +1,21 @@
+Du trinkst gerne Tee.
+
+Du, PRON, sb, PPER, 
+pronoun, subject, non-reflexive personal pronoun, 
+
+trinkst, VERB, ROOT, VVFIN, 
+verb, root, finite verb, full, 
+
+gerne, ADV, mo, ADV, 
+adverb, modifier, adverb, 
+
+Tee, NOUN, oa, NN, 
+noun, accusative object, noun, singular or mass, 
+
+., PUNCT, punct, $., 
+punctuation, punctuation, sentence-final punctuation mark, 
+
+
+, SPACE, dep, _SP, 
+space, unclassified dependent, whitespace, 
+

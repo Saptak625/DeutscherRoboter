@@ -1,0 +1,21 @@
+Ihr hattet Fußball gespielt.
+
+Ihr, PRON, sb, PPER, 
+pronoun, subject, non-reflexive personal pronoun, 
+
+hattet, VERB, ROOT, VVFIN, 
+verb, root, finite verb, full, 
+
+Fußball, NOUN, sb, NN, 
+noun, subject, noun, singular or mass, 
+
+gespielt, VERB, mo, VVPP, 
+verb, modifier, perfect participle, full, 
+
+., PUNCT, punct, $., 
+punctuation, punctuation, sentence-final punctuation mark, 
+
+
+, SPACE, dep, _SP, 
+space, unclassified dependent, whitespace, 
+

@@ -1,0 +1,24 @@
+Wir aßen gestern Abend Pizza.
+
+Wir, PRON, pnc, PPER, 
+pronoun, proper noun component, non-reflexive personal pronoun, 
+
+aßen, PROPN, ROOT, NE, 
+proper noun, root, proper noun, 
+
+gestern, ADV, mo, ADV, 
+adverb, modifier, adverb, 
+
+Abend, NOUN, mo, NN, 
+noun, modifier, noun, singular or mass, 
+
+Pizza, NOUN, nk, NN, 
+noun, noun kernel element, noun, singular or mass, 
+
+., PUNCT, punct, $., 
+punctuation, punctuation, sentence-final punctuation mark, 
+
+
+, SPACE, dep, _SP, 
+space, unclassified dependent, whitespace, 
+
